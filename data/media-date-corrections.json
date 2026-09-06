@@ -1,0 +1,29 @@
+{
+  "reason": "User confirmed newborn group is 2021-04-04, not 2022-06-05",
+  "paths": {
+    "assets/thuy-yen/images/2022/06/2022-06-05.webp": "assets/thuy-yen/images/2021/04/2021-04-04.webp",
+    "assets/thuy-yen/images/2022/06/2022-06-05_1.webp": "assets/thuy-yen/images/2021/04/2021-04-04_1.webp",
+    "assets/thuy-yen/images/2022/06/2022-06-05_2.webp": "assets/thuy-yen/images/2021/04/2021-04-04_2.webp",
+    "assets/thuy-yen/images/2022/06/2022-06-05_3.webp": "assets/thuy-yen/images/2021/04/2021-04-04_3.webp",
+    "assets/thuy-yen/images/2022/06/2022-06-05_4.webp": "assets/thuy-yen/images/2021/04/2021-04-04_4.webp",
+    "assets/thuy-yen/images/2022/06/2022-06-05_5.webp": "assets/thuy-yen/images/2021/04/2021-04-04_5.webp",
+    "assets/thuy-yen/images/2022/06/2022-06-05_6.webp": "assets/thuy-yen/images/2021/04/2021-04-04_6.webp",
+    "assets/thuy-yen/images/2022/06/2022-06-05_7.webp": "assets/thuy-yen/images/2021/04/2021-04-04_7.webp",
+    "assets/thuy-yen/videos/2022/06/2022-06-05_1.mp4": "assets/thuy-yen/videos/2021/04/2021-04-04_1.mp4",
+    "assets/thuy-yen/videos/2022/06/2022-06-05_1_52.mp4": "assets/thuy-yen/videos/2021/04/2021-04-04_1_52.mp4",
+    "assets/thuy-yen/videos/2022/06/2022-06-05_2.mp4": "assets/thuy-yen/videos/2021/04/2021-04-04_2.mp4",
+    "assets/thuy-yen/videos/2022/06/2022-06-05_2_52.mp4": "assets/thuy-yen/videos/2021/04/2021-04-04_2_52.mp4",
+    "assets/thuy-yen/videos/2022/06/2022-06-05_3.mp4": "assets/thuy-yen/videos/2021/04/2021-04-04_3.mp4",
+    "assets/thuy-yen/videos/2022/06/2022-06-05_4.mp4": "assets/thuy-yen/videos/2021/04/2021-04-04_4.mp4",
+    "assets/thuy-yen/videos/2022/06/2022-06-05_52.mp4": "assets/thuy-yen/videos/2021/04/2021-04-04_52.mp4"
+  },
+  "additionalCorrections": [
+    {
+      "reason": "Exact visual match to two previously confirmed 3-month photos dated 2021-07-07; date in delivered filename was 2022-03-07",
+      "paths": {
+        "assets/thuy-yen/images/2022/03/2022-03-07_1.webp": "assets/thuy-yen/images/2021/07/2021-07-07_1.webp",
+        "assets/thuy-yen/images/2022/03/2022-03-07_1_1.webp": "assets/thuy-yen/images/2021/07/2021-07-07_1_1.webp"
+      }
+    }
+  ]
+}

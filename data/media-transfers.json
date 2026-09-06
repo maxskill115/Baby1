@@ -1,0 +1,152 @@
+{
+  "fromProfile": "thuy-yen",
+  "reason": "User confirmed these images belong to Baby 2; videos remain with Yen",
+  "date": "2026-09-06",
+  "files": [
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_1_1.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_1_1.webp",
+      "sha256": "d3d67b78175df54534f8f2d20bf30c470a39151771e69e1f9566ae30f07befbe",
+      "bytes": 234068
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_1.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_1.webp",
+      "sha256": "f80b50f52bffae71e0cd7bc231f5851b7cb3039e0238809b758140063a3aa2a2",
+      "bytes": 59192
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_10.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_10.webp",
+      "sha256": "e3e4697aa838297a8a99318931aa673b83f9e7834c61aca305b7dc779824be28",
+      "bytes": 188112
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_11.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_11.webp",
+      "sha256": "95e0f134c34d808df6d5db41be74d50993da36bc42637ba7b59a1d292af9f002",
+      "bytes": 192026
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_12.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_12.webp",
+      "sha256": "5ef69f529158e6486d3cee9d0fbc94a23c95fe98fc39b5ef316cb637a335442b",
+      "bytes": 191988
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_13.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_13.webp",
+      "sha256": "b089b009223fd6283b9ad10e99a036629a4cb72e962ed0909110be1fc45e7f2e",
+      "bytes": 185684
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_14.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_14.webp",
+      "sha256": "d1e52e2945f8167ea52504ade26ec078d1dbe55e17abe5e8ec750e624479679d",
+      "bytes": 183966
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_15.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_15.webp",
+      "sha256": "0e2da55c17a1807015f4534d76cd6acb3f9f8126e940857c22faa34c1974c8ee",
+      "bytes": 102880
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_16.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_16.webp",
+      "sha256": "100d5874c897d50597b8b202fe333b8f4ea4912091e6fb6c978a934b2bd90825",
+      "bytes": 116994
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_17.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_17.webp",
+      "sha256": "a46e4342d9b859d6e6d8a9264b719867be4450bade9c53ca4e42cd8635360763",
+      "bytes": 131270
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_18.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_18.webp",
+      "sha256": "e6636d450bfde21eb50e4b67d519c9cdc3e674295a08cb6fd44f43ed92c5e729",
+      "bytes": 121410
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_19.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_19.webp",
+      "sha256": "78a9307245f6555b3f9e229139353331d714da831e3ec1da33a8d119b3a611f5",
+      "bytes": 135204
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_2.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_2.webp",
+      "sha256": "193bcffdc3efe728dd8efb429412ada6ae3c3e7f16bb9f347454093a3f3b3455",
+      "bytes": 235034
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_20.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_20.webp",
+      "sha256": "1ea627bb5a6d9d8f1c15adb49a7c8128ce1db5b642cc60cac587e049c0d6c0eb",
+      "bytes": 141762
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_3.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_3.webp",
+      "sha256": "def4ee900f07eb5cdc1ad90ded966c83a4896b0de81941bcc72272fe78662e40",
+      "bytes": 158056
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_4.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_4.webp",
+      "sha256": "985bae79049e113f273431fe69a4a65cbe2ac60b7223f726f915d18e70ba9b1e",
+      "bytes": 180190
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_5.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_5.webp",
+      "sha256": "fb58158e6b9d19e7eefccb7a26ddf95dd4b23e5b5efd900e36d81cbb6b50798a",
+      "bytes": 182714
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_6.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_6.webp",
+      "sha256": "19eafbee193b443348081dd6082ec1f363c950ca737837f294a567ee1d7fe2ee",
+      "bytes": 198172
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_7.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_7.webp",
+      "sha256": "90d29ce20f9033a8339d1d270da610cc212863f195a74b06a0a5fcb33dc0e660",
+      "bytes": 162138
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_8.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_8.webp",
+      "sha256": "ba83e16cf1a90203520a8d6134c0dc0952e11a1beaa33eb720d36889a9f20dba",
+      "bytes": 157932
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31_9.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31_9.webp",
+      "sha256": "1efea542e41db3a44c9d9ecb7bf2bcd53fa4fc4359a2c434fc498e1f668a68f4",
+      "bytes": 170128
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/01/2023-01-31.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/01/2023-01-31.webp",
+      "sha256": "46cfa16f470329b090b46565ba8f645f292aafd39f6df141d88d925c3fb0dc6a",
+      "bytes": 211480
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/02/2023-02-01_1.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/02/2023-02-01_1.webp",
+      "sha256": "9a551a80a5fa135b7c9ed295038a092e720d5a1ef2e1348f1b1caf595a104fa8",
+      "bytes": 160088
+    },
+    {
+      "from": "./assets/thuy-yen/images/2023/02/2023-02-01.webp",
+      "to": "../Baby2/assets/y-khue/originals/images/legacy-baby1/2023/02/2023-02-01.webp",
+      "sha256": "cde0d29e624d63b8306e08418879a913a9e2341becb124821302bc30bba4d206",
+      "bytes": 173742
+    }
+  ],
+  "toProfile": "baby2"
+}
