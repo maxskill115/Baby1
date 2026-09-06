@@ -215,3 +215,10 @@ Python 3.12 + Pillow cho kiểm tra ảnh, FFmpeg để tạo poster; Playwright
 - Sự kiện cũ giữ nguyên không đụng: chào đời, 3 tháng, thôi nôi (cake 25/03/2022), outing 15/06/2022, phao hồng 29/06/2024, đứt tay 26/10/2024, head-injury 13/02/2024, 3 milestone kỹ năng.
 - Smoke 1440: **235 scene** render (tăng từ 93+), 26 chương đều có preview (95 ảnh), 0 JS error/404. Screenshot `review/chapter-cuu-hoa.png`.
 - Lưu ý: vài tên file agent báo cáo sai đã được script/disk kiểm tra bắt và sửa; ALWAYS giữ bước verify trong script.
+
+## TÁCH REPO RIÊNG & PUSH GITHUB (06/09/2026)
+- Site đã tách khỏi Discovery, repo riêng: **https://github.com/maxskill115/Baby1** — local: `F:/0.Tools/fingermath/Baby1`.
+- Push đầy đủ media + video theo đợt ≤350MB bằng `F:/0.Tools/fingermath/push-batched.py` (script dùng chung, idempotent, tự retry/rebase).
+- **4 file video >100MB bị GitHub chặn cứng, KHÔNG lên được, giữ local** (xem `.gitignore`): `assets/thuy-yen/videos/2022/03/2022-03-25_6.mp4` (152MB), `assets/thuy-yen/videos/2022/06/2022-06-25.mp4` (108MB), `assets/thuy-yen/videos/2023/05/2023-05-25_1.mp4` (192MB)
+- Cấu trúc giữ nguyên (assets/css/js/data/scripts); `.gitignore` repo: contact-sheets + chỉ video của assets/thuy-yen/videos.
+- Sau này đổi tên project/domain trên Vercel thì nhớ cập nhật link card trong repo Discovery (`app.js`).
