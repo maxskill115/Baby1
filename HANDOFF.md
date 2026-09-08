@@ -222,3 +222,9 @@ Python 3.12 + Pillow cho kiểm tra ảnh, FFmpeg để tạo poster; Playwright
 - **4 file video >100MB bị GitHub chặn cứng, KHÔNG lên được, giữ local** (xem `.gitignore`): `assets/thuy-yen/videos/2022/03/2022-03-25_6.mp4` (152MB), `assets/thuy-yen/videos/2022/06/2022-06-25.mp4` (108MB), `assets/thuy-yen/videos/2023/05/2023-05-25_1.mp4` (192MB)
 - Cấu trúc giữ nguyên (assets/css/js/data/scripts); `.gitignore` repo: contact-sheets + chỉ video của assets/thuy-yen/videos.
 - Sau này đổi tên project/domain trên Vercel thì nhớ cập nhật link card trong repo Discovery (`app.js`).
+
+## Video hover/chạm-giữ preview kiểu YouTube (06/09/2026)
+- `js/video-hover-preview.js` (dùng chung 3 site, nạp cuối chuỗi access-gate sau media-filename): desktop rê chuột ~0.4s → thumbnail tự phát video muted từ đầu, tối đa 6s rồi loop; rời chuột → dừng + gỡ src. Mobile: chạm giữ ~0.4s → preview, thả tay → dừng và CHẶN click mở viewer (gõ nhanh <0.4s vẫn mở viewer bình thường).
+- Performance chuẩn YouTube (đã test Playwright): cuộn full hành trình **0 MP4 nào được tải** (chỉ poster lazy); hover vào thumbnail nào chỉ tải đúng video đó.
+- Video hiển thị đè poster qua class `.is-previewing` (opacity poster → 0, video object-fit cover).
+- Lưu ý test bằng Playwright synthetic touch: phải dispatch TouchEvent có `touches` thật; `dispatch_event("touchstart")` không kèm touch list sẽ bị bỏ qua (đã nới điều kiện để hoạt động cả khi length != 1).
