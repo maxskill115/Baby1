@@ -45,7 +45,8 @@
       { id: "HLT-NGUU-010", month: 49, date: "2025-05-07", ageText: "4 tuổi 1 tháng", heightCm: 101, weightKg: 17.1, bmi: 16.76 },
       { id: "HLT-NGUU-011", month: 51, date: "2025-07-04", ageText: "4 tuổi 3 tháng", heightCm: 102.5, weightKg: 18.8, bmi: 17.89 },
       { id: "HLT-NGUU-012", month: 62, date: "2026-06-27", ageText: "5 tuổi 2 tháng", heightCm: 112, weightKg: 21, bmi: 16.74 },
-      { id: "HLT-NGUU-013", month: 63, date: "2026-07-22", ageText: "5 tuổi 3 tháng", heightCm: 112, weightKg: 21.4, bmi: 17.06 }
+      { id: "HLT-NGUU-013", month: 63, date: "2026-07-22", ageText: "5 tuổi 3 tháng", heightCm: 112, weightKg: 21.4, bmi: 17.06 },
+      { id: "HLT-NGUU-014", month: 65, date: "2026-10-04", ageText: "5 tuổi 6 tháng", heightCm: 114, weightKg: 22.55, bmi: 17.36 }
     ],
 
     scenes: [
