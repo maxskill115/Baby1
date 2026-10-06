@@ -194,6 +194,9 @@
       },
       {
         id: "nguu-63m-health", month: 63, order: 0, type: "health", importance: 3, layout: "health", align: "left", eyebrow: "63 tháng", title: "5 tuổi 3 tháng", healthMonth: 63
+      },
+      {
+        id: "nguu-65m-health", month: 65, order: 0, type: "health", importance: 4, layout: "health", align: "right", eyebrow: "65 tháng", title: "5 tuổi 6 tháng", healthMonth: 65
       }
     ]
   };
